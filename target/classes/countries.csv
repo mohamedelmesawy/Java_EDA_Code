@@ -1,0 +1,236 @@
+FIFA,official_name_en,Continent
+AFG,Afghanistan,AS
+ALB,Albania,EU
+ALG,Algeria,AF
+ASA,American Samoa,OC
+AND,Andorra,EU
+ANG,Angola,AF
+AIA,Anguilla,NA
+ROS,Antarctica,AN
+ATG,Antigua and Barbuda,NA
+ARG,Argentina,SA
+ARM,Armenia,AS
+ARU,Aruba,NA
+AUS,Australia,OC
+AUT,Austria,EU
+AZE,Azerbaijan,AS
+BAH,Bahamas,NA
+BHR,Bahrain,AS
+BAN,Bangladesh,AS
+BRB,Barbados,NA
+BLR,Belarus,EU
+BEL,Belgium,EU
+BLZ,Belize,NA
+BEN,Benin,AF
+BER,Bermuda,NA
+BHU,Bhutan,AS
+BOL,Bolivia (Plurinational State of),SA
+ANT,"Bonaire, Sint Eustatius and Saba",NA
+BIH,Bosnia and Herzegovina,EU
+BOT,Botswana,AF
+BRA,Brazil,SA
+VGB,British Virgin Islands,NA
+BRU,Brunei Darussalam,AS
+BUL,Bulgaria,EU
+BFA,Burkina Faso,AF
+BDI,Burundi,AF
+CPV,Cabo Verde,AF
+CAM,Cambodia,AS
+CMR,Cameroon,AF
+CAN,Canada,NA
+CAY,Cayman Islands,NA
+CTA,Central African Republic,AF
+CHA,Chad,AF
+CHI,Chile,SA
+CHN,China,AS
+HKG,"China, Hong Kong Special Administrative Region",AS
+MAC,"China, Macao Special Administrative Region",AS
+CXR,Christmas Island,OC
+CCK,Cocos (Keeling) Islands,AS
+COL,Colombia,SA
+COM,Comoros,AF
+CGO,Congo,AF
+COK,Cook Islands,OC
+CRC,Costa Rica,NA
+CRO,Croatia,EU
+CUB,Cuba,NA
+CYP,Cyprus,EU
+CZE,Czechia,EU
+CIV,Côte d'Ivoire,AF
+PRK,Democratic People's Republic of Korea,AS
+COD,Democratic Republic of the Congo,AF
+DEN,Denmark,EU
+DJI,Djibouti,AF
+DMA,Dominica,NA
+DOM,Dominican Republic,NA
+ECU,Ecuador,SA
+EGY,Egypt,AF
+SLV,El Salvador,NA
+EQG,Equatorial Guinea,AF
+ERI,Eritrea,AF
+EST,Estonia,EU
+SWZ,Eswatini,AF
+ETH,Ethiopia,AF
+FLK,Falkland Islands (Malvinas),SA
+FRO,Faroe Islands,EU
+FIJ,Fiji,OC
+FIN,Finland,EU
+FRA,France,EU
+GUF,French Guiana,SA
+TAH,French Polynesia,OC
+GAB,Gabon,AF
+GAM,Gambia,AF
+GEO,Georgia,AS
+GER,Germany,EU
+GHA,Ghana,AF
+GBZ,Gibraltar,EU
+GRE,Greece,EU
+GRL,Greenland,NA
+GRN,Grenada,NA
+GLP,Guadeloupe,NA
+GUM,Guam,OC
+GUA,Guatemala,NA
+GBG,Guernsey,EU
+GUI,Guinea,AF
+GNB,Guinea-Bissau,AF
+GUY,Guyana,SA
+HAI,Haiti,NA
+VAT,Holy See,EU
+HON,Honduras,NA
+HUN,Hungary,EU
+ISL,Iceland,EU
+IND,India,AS
+IDN,Indonesia,AS
+IRN,Iran (Islamic Republic of),AS
+IRQ,Iraq,AS
+IRL,Ireland,EU
+GBM,Isle of Man,EU
+ISR,Israel,AS
+ITA,Italy,EU
+JAM,Jamaica,NA
+JPN,Japan,AS
+GBJ,Jersey,EU
+JOR,Jordan,AS
+KAZ,Kazakhstan,AS
+KEN,Kenya,AF
+KIR,Kiribati,OC
+KUW,Kuwait,AS
+KGZ,Kyrgyzstan,AS
+LAO,Lao People's Democratic Republic,AS
+LVA,Latvia,EU
+LIB,Lebanon,AS
+LES,Lesotho,AF
+LBR,Liberia,AF
+LBY,Libya,AF
+LIE,Liechtenstein,EU
+LTU,Lithuania,EU
+LUX,Luxembourg,EU
+MAD,Madagascar,AF
+MWI,Malawi,AF
+MAS,Malaysia,AS
+MDV,Maldives,AS
+MLI,Mali,AF
+MLT,Malta,EU
+MHL,Marshall Islands,OC
+MTQ,Martinique,NA
+MTN,Mauritania,AF
+MRI,Mauritius,AF
+MYT,Mayotte,AF
+MEX,Mexico,NA
+FSM,Micronesia (Federated States of),OC
+MON,Monaco,EU
+MNG,Mongolia,AS
+MNE,Montenegro,EU
+MSR,Montserrat,NA
+MAR,Morocco,AF
+MOZ,Mozambique,AF
+MYA,Myanmar,AS
+NAM,Namibia,AF
+NRU,Nauru,OC
+NEP,Nepal,AS
+NED,Netherlands,EU
+NCL,New Caledonia,OC
+NZL,New Zealand,OC
+NCA,Nicaragua,NA
+NIG,Niger,AF
+NGA,Nigeria,AF
+NIU,Niue,OC
+NFK,Norfolk Island,OC
+NMI,Northern Mariana Islands,OC
+NOR,Norway,EU
+OMA,Oman,AS
+PAK,Pakistan,AS
+PLW,Palau,OC
+PAN,Panama,NA
+PNG,Papua New Guinea,OC
+PAR,Paraguay,SA
+PER,Peru,SA
+PHI,Philippines,AS
+PCN,Pitcairn,OC
+POL,Poland,EU
+POR,Portugal,EU
+PUR,Puerto Rico,NA
+QAT,Qatar,AS
+KOR,Republic of Korea,AS
+MDA,Republic of Moldova,EU
+ROU,Romania,EU
+RUS,Russian Federation,EU
+RWA,Rwanda,AF
+REU,Réunion,AF
+SHN,Saint Helena,AF
+SKN,Saint Kitts and Nevis,NA
+LCA,Saint Lucia,NA
+SPM,Saint Pierre and Miquelon,NA
+VIN,Saint Vincent and the Grenadines,NA
+SAM,Samoa,OC
+SMR,San Marino,EU
+STP,Sao Tome and Principe,AF
+SEN,Senegal,AF
+SRB,Serbia,EU
+SEY,Seychelles,AF
+SLE,Sierra Leone,AF
+SIN,Singapore,AS
+SVK,Slovakia,EU
+SVN,Slovenia,EU
+SOL,Solomon Islands,OC
+SOM,Somalia,AF
+RSA,South Africa,AF
+ESP,Spain,EU
+SRI,Sri Lanka,AS
+PLE,State of Palestine,AS
+SUD,Sudan,AF
+SUR,Suriname,SA
+SWE,Sweden,EU
+SUI,Switzerland,EU
+SYR,Syrian Arab Republic,AS
+TJK,Tajikistan,AS
+THA,Thailand,AS
+MKD,The former Yugoslav Republic of Macedonia,EU
+TLS,Timor-Leste,OC
+TOG,Togo,AF
+TKL,Tokelau,OC
+TGA,Tonga,OC
+TRI,Trinidad and Tobago,NA
+TUN,Tunisia,AF
+TUR,Turkey,AS
+TKM,Turkmenistan,AS
+TCA,Turks and Caicos Islands,NA
+TUV,Tuvalu,OC
+UGA,Uganda,AF
+UKR,Ukraine,EU
+UAE,United Arab Emirates,AS
+ENG,United Kingdom of Great Britain and Northern Ireland,EU
+TAN,United Republic of Tanzania,AF
+VIR,United States Virgin Islands,NA
+USA,United States of America,NA
+URU,Uruguay,SA
+UZB,Uzbekistan,AS
+VAN,Vanuatu,OC
+VEN,Venezuela (Bolivarian Republic of),SA
+VIE,Viet Nam,AS
+WLF,Wallis and Futuna Islands,OC
+SAH,Western Sahara,AF
+YEM,Yemen,AS
+ZAM,Zambia,AF
+ZIM,Zimbabwe,AF
+ALD,land Islands,EU
