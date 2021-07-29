@@ -37,9 +37,10 @@ public class DAOCities implements DAOImp<City>{
         
         for (int i = 1; i < lines.size(); i++) {
             String[] fields = lines.get(i).split(",");
-            for (String field : fields)
-                field = field.replaceAll("[^\\d+-]","").trim();
-            
+
+            for (int j = 0; j < fields.length; j++)
+                fields[j] = fields[j].replaceAll("[^0-9a-zA-Z]", "").trim();
+
             var city =createEntity(fields, headers);
             cities.add(city);  
         }
@@ -54,6 +55,7 @@ public class DAOCities implements DAOImp<City>{
         String code = "";
         int population = 0;
         String country = null;
+        boolean isCapital = false;
 
         for (int i = 0; i < headers.length; i++) {
             if (headers[i].toLowerCase().replaceAll("[^a-zA-Z]", "").trim().equals("city"))
@@ -64,8 +66,11 @@ public class DAOCities implements DAOImp<City>{
                 population = Integer.parseInt(metadata[i].replaceAll("[^\\d+-]","").trim());
             else if (headers[i].toLowerCase().contains("country"))
                 country = metadata[i].toLowerCase().replaceAll("[^a-zA-Z]", "").trim();
+            else if (headers[i].toLowerCase().contains("capital") && metadata[i].replaceAll("[^a-zA-Z]", "").trim().equals("primary"))
+                isCapital = true;
         }
-        return new City(name, code, population, country);
+
+        return new City(name, code, population, country, isCapital);
     }
     
 }

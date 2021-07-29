@@ -22,7 +22,7 @@ public class XChartDemo
 {
     public static void main( String[] args )
     {
-        var passengerList = getPassengerFromJsonFile("src/main/resources/titanic_csv.json");
+        var passengerList = getPassengerFromJsonFile("src/main/resources/titanic.json");
 
         System.out.println(passengerList);
 

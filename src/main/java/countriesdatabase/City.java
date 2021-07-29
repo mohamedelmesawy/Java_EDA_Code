@@ -14,13 +14,14 @@ public class City implements Comparable<City>{
     private String code;
     private int population;
     private String country;
-
+    private boolean isCapital;
     
-    public City(String name, String code, int population, String country) {
+    public City(String name, String code, int population, String country, boolean isCapital) {
         this.name = name;
         this.code = code;
         this.country = country;
         this.population = population;
+        this.isCapital = isCapital;
     }
     
     
@@ -55,12 +56,19 @@ public class City implements Comparable<City>{
     public void setCountry(String country) {
         this.country = country;
     }
-    
-    
+
+    public boolean isCapital() {
+        return isCapital;
+    }
+
+    public void setAsCapital() {
+        isCapital = true;
+    }
+
     @Override
     public String toString() {
         // return "City{" + "name=" + name + ", code=" + code + ", population=" + population + ", country=" + country + '}';
-        return "< " + name.toUpperCase() + " -  " + population + " >";
+        return "{{ " + name.toUpperCase() + " -  Population: " + population + " - Capital: " +  isCapital + " }}";
     }
 
     @Override
