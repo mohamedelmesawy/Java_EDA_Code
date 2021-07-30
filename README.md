@@ -54,14 +54,14 @@ This repo contains some Java demos related to:
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Load Countries/Cities database;\
-:heavy_check_mark: Extended Libraries [Joinery/Tablesaw/GoogleGuava] ;\
-:heavy_check_mark: Load Egyptian-Pyramids database ;\
-:heavy_check_mark: SMILE Demo ;\
-:heavy_check_mark: Spark Demo [Spark/SparkML/SparkSQL] ;\
-:heavy_check_mark: String-Utils Demo [Functional-Programming] ;\
-:heavy_check_mark: Load and Analyze the Titanic dataset ;\
-:heavy_check_mark: XChart Demo ;\
+:heavy_check_mark: Load Countries/Cities database \
+:heavy_check_mark: Extended Libraries [Joinery/Tablesaw/GoogleGuava] \
+:heavy_check_mark: Load Egyptian-Pyramids database \
+:heavy_check_mark: SMILE Demo \
+:heavy_check_mark: Spark Demo [Spark/SparkML/SparkSQL] \
+:heavy_check_mark: String-Utils Demo [Functional-Programming] ;
+:heavy_check_mark: Load and Analyze the Titanic dataset \
+:heavy_check_mark: XChart Demo 
 
 
 ## :rocket: Technologies ##
