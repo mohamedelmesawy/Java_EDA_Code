@@ -59,7 +59,7 @@ This repo contains some Java demos related to:
 :heavy_check_mark: Load Egyptian-Pyramids database \
 :heavy_check_mark: SMILE Demo \
 :heavy_check_mark: Spark Demo [Spark/SparkML/SparkSQL] \
-:heavy_check_mark: String-Utils Demo [Functional-Programming] ;
+:heavy_check_mark: String-Utils Demo [Functional-Programming] \
 :heavy_check_mark: Load and Analyze the Titanic dataset \
 :heavy_check_mark: XChart Demo 
 
